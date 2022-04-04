@@ -70,7 +70,7 @@ Pour profiter de l'application, l'utilisateur doit impérativement:
 - Créer un compte
 - S'authentifier
 
-On peut distinguer deux type d'utilisateurs :
+On peut distinguer deux types d'utilisateurs :
 - auteur
 - contributeur
 
