@@ -15,6 +15,8 @@ Matthieu LE CAM
 
 ### 1. Télécharger la branche Main vers un répertoire local
 
+- Pour Télécharger, cliquez sur le bouton vert "Code" puis "Download ZIP"
+
 - Créer un dossier sur votre ordinateur pour y disposer les fichiers présents sous GitHub
 
 - Ouvrir un terminal (Ex: Windows PowerShell) et se positionner dans le dossier en question avec la commande cd, par exemple:
