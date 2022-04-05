@@ -13,7 +13,7 @@ Matthieu LE CAM
 
 ## **Initialisation de l'environnement**
 
-### 1. Cloner la branche Main vers un répertoire local
+### 1. Télécharger la branche Main vers un répertoire local
 
 - Créer un dossier sur votre ordinateur pour y disposer les fichiers présents sous GitHub
 
@@ -80,7 +80,7 @@ On peut distinguer deux types d'utilisateurs :
 Dans la documentation Postman, vous pouvez retrouver les différents Endpoint à disposition de l'utilisateur.
 Les permissions des utilisateurs y sont spécifiées suivant le type d'utilisateur.
 
-https://documenter.getpostman.com/view/18469824/UVysybcc
+[Documentation Postman](https://documenter.getpostman.com/view/18469824/UVysybcc)
 
 ## Informations complémentaires :
 
