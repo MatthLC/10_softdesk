@@ -6,7 +6,7 @@ SoftDesk est un gestionnaire de bug qui vous facilitera la gestion de vos projet
 
 ## Technologies
 - Python
-- Django 
+- Django REST
 - Django JWT / Simple JWT
 
 ## Auteurs :
